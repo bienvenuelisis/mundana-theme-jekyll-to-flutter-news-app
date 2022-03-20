@@ -1,4 +1,4 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Jekyll Blog to Flutter News application.  - Mundana Theme by WowThemes.net
 
 Quicky setup your jekyll blog website to fully functionnal Flutter News Mobile Application.
 
